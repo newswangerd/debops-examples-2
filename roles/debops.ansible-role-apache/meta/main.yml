@@ -3,7 +3,7 @@ galaxy_info:
   description: your description
   company: your company (optional)
 
-  role_name: apache
+  role_name: APACHE
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
